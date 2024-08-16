@@ -22,4 +22,4 @@ To do this, you need to go to the configs folder
 change the token
 
 
-### !!!If you from russia use goodbye dpi or vpn for use bot!!!
+### !!!If you from russia use goodbye dpi or vpn for use youtube functional in bot!!!
