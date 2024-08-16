@@ -1,7 +1,7 @@
 # DjOnan2
 
-This discord can include music from youtube and is designed in a great party
-V0.2
+This discord can include music from youtube, files, yandex.music and is designed in a great party
+V0.3
 Command list:
 
 _-Music
