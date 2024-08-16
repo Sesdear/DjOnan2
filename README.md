@@ -8,7 +8,7 @@ _-Music
   - play - <url>/file
   - stop
   - list - list of music in queue
-  - remove - <track index> - Deletes by index a track from the queue 1 = 0
+  - remove - <track_index> - Deletes by index a track from the queue 1 = 0
   - repeat - Repeat mods: <single> - repeat current track, <all> - repeat list of tracks, <stop> - stop repeat
   - playYa - Playing music from yandex music
 
