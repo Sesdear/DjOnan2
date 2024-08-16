@@ -10,7 +10,7 @@ _-Music
   - list - list of music in queue
   - remove - <track_index> - Deletes by index a track from the queue 1 = 0
   - repeat - Repeat mods: single - repeat current track, all - repeat list of tracks, stop - stop repeat
-  - playYa - <name_of_track-artist>Playing music from yandex music
+  - playYa - <track-artist> - Playing music from yandex music
 
 _-Fun
   - shit - yourself, myself
