@@ -3,21 +3,6 @@
   "YaMusicToken": "",
   "owner" : 0,
   "prefix" :"o!",
-  "success" :"🎶",
-  "warning" : "❗",
-  "error" : "💀",
-  "loading" : "🧩",
-  "searching" : "🤔",
-  "aliases": {
-    "playName": "play",
-    "stopName": "stop",
-    "queueName": "list",
-    "remove": "delete",
-    "skipName": "skip",
-    "playlists" :  "pls" ,
-    "shuffle ": [],
-    "repeat":"repeat"
-  },
   "temp_music_dir" : "music",
   "permanent_music_dir" : ""
 }
