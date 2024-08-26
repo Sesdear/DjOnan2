@@ -5,7 +5,7 @@ V0.3
 Command list:
 
 _-Music
-  - play - <url_>/file
+  - play - <url_/file>
   - stop
   - list - list of music in queue
   - remove - <track_index> - Deletes by index a track from the queue 1 = 0
